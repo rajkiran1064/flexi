@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "539269697373",
+    "project_id": "flexi-f8f69",
+    "storage_bucket": "flexi-f8f69.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539269697373:android:1422844e234cbfae8222b4",
+        "android_client_info": {
+          "package_name": "com.apps.flexi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWVmCMf4eYTHIGKXoCsz8uiTFVA0MXtPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539269697373:android:bdde437e02305cae8222b4",
+        "android_client_info": {
+          "package_name": "com.example.flexi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWVmCMf4eYTHIGKXoCsz8uiTFVA0MXtPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
